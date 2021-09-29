@@ -10,10 +10,22 @@
 .element{
 
     margin-top: 10%;
-    width:30%;
+    width:35%;
     height:20%;
-    background-color: red;
+    background-color: rgb(9, 12, 48);
+    
 
+}
+.container div :hover{
+   
+    padding:4px;
+    transition:all .10s;
+    
+
+}
+a{
+    text-decoration:none;
+    color:#fff;
 
 }
 .center{
